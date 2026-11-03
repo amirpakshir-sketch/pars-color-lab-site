@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amirpakshir-sketch.github.io/pars-color-lab-site/sitemap.xml
